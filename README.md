@@ -14,9 +14,9 @@ This repository contains a tutorial on the Python programming language. The tuto
 
 Python's simplicity and large community support have contributed to its immense popularity.
 
-**Get Started:**
+### Get Started:
 
-**Installing Python**
+#### **Installing Python**
 
 The installation process varies slightly depending on your operating system.
 
@@ -58,3 +58,4 @@ This will display the installed Python version if successful.
 Note: 
 If you have both Python 2 and Python 3 installed, you might need to specify which version you want to use by typing python2 or python3. 
 It's generally recommended to use Python 3 for new projects.
+
